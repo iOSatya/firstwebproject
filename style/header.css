@@ -1,0 +1,38 @@
+header {
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    position: fixed;
+    transition: all 0.2s;
+    z-index: 10;
+}
+
+header:hover {
+    opacity: 0.8;
+}
+
+header a {
+    display: inline-block;
+    color: white;
+    margin: 10px 0px;
+    margin-left: 10px;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-family: 'Kanit', sans-serif;
+    transition: all 0.2s;
+}
+
+header img {
+    height: 25px;
+    margin-right: 5px;
+    vertical-align: -5px;
+}
+
+header .github:hover {
+    background-color: lightgreen;
+}
+
+header .stackoverflow:hover {
+    background-color: orange;
+}

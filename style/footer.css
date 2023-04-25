@@ -1,0 +1,17 @@
+footer {
+    width: 100%;
+    background-image: linear-gradient(to right, lightyellow, white);
+}
+
+footer .buttons {
+    padding: 30px;
+    padding-top: 100px;
+}
+
+footer .buttons a {
+    display: inline-block;
+    color: black;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: "Kanit";
+}

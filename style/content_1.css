@@ -1,0 +1,70 @@
+.content_1 {
+    width: 100%;
+    background-color: #282828;
+    text-align: center;
+    z-index: 1;
+}
+
+.content_1 .text {
+    display: inline-block;
+    color: white;
+    font-family: "Roboto Mono";
+    margin-right: 100px;
+    font-size: 70px;
+    letter-spacing: 12px;
+}
+
+.content_1 .python {
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    border: 2px white solid;
+    background-color: #64e8ff;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    border-radius: 10px;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+.content_1 .python:hover {
+    opacity: 1;
+}
+
+.content_1 .python p {
+    font-family: "Kanit";
+    font-size: 20px;
+    margin-top: 20px;
+    color: black;
+}
+
+.content_1 .python img {
+    height: 100px;
+}
+
+.content_1 .javascript {
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    border: 2px white solid;
+    background-color: #ffff00;
+    margin-left: 30px;
+    border-radius: 10px;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+.content_1 .javascript:hover {
+    opacity: 1;
+}
+
+.content_1 .javascript p {
+    font-family: "Kanit";
+    font-size: 20px;
+    margin-top: 20px;
+    color: black;
+}
+
+.content_1 .javascript img {
+    height: 100px;
+}

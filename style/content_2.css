@@ -1,0 +1,11 @@
+.content_2 {
+    width: 100%;
+    background-image: linear-gradient(to bottom right, orange, yellow);
+    text-align: center;
+}
+
+.content_2 .p_1 {
+    font-size: 30px;
+    font-family: "Montserrat";
+    padding: 300px 0px;
+}
